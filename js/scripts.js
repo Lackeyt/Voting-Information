@@ -1,5 +1,3 @@
-//Business Logic
-
 $(document).ready(function() {
   $("form#age").submit(function(event) {
 
@@ -13,8 +11,5 @@ $(document).ready(function() {
       $("#under18").show();
       $("#age").hide();
     }
-
   });
 });
-
-//User Interface

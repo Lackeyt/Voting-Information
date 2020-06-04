@@ -5,3 +5,7 @@
 #under18 {
   display: none;
 }
+
+.btn {
+  background-color: rgb(170, 170, 170);
+}
